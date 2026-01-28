@@ -27,6 +27,7 @@ A user has already created an ESG disclosure using GRI and wants to create anoth
 ## Main References
 
 - A Practical Guide to Sustainability Reporting Using GRI and SASB Standards by IFRS - [Link](https://sasb.ifrs.org/wp-content/uploads/2021/04/GRI-SASB-V4-040721.pdf)
+- An Example SASB Reports : TotalEnergies Company - [Link](https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-03/SASB-Reporting-VEN.pdf)
 
 
 
