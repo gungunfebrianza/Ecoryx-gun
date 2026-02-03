@@ -8,7 +8,6 @@ An AI-powered Next.js application that analyzes ESG (Environmental, Social, and 
 - **AI-Powered Extraction**: Uses OpenAI GPT models to extract relevant ESG metrics
 - **SASB Standards Support**:
   - SASB Oil & Gas - Exploration & Production
-  - SASB Manufacturing - Chemicals & Materials
 - **Real-time Streaming**: View analysis results as they're generated
 - **Markdown Output**: Structured, readable format for extracted metrics
 
