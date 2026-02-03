@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone <repository-url>
-cd esg-report-convert-ai-nextjs
+cd Ecoryx-gun
 ```
 
 ### 2. Install Dependencies
