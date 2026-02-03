@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-110a.1",
+    "metric": "Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations",
+    "topic": "Greenhouse Gas Emissions",
+    "unit": "Metric tonnes CO₂-e (t), Percentage (%)"
+  },
+  {
+    "id": 2,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-110a.2",
+    "metric": "Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions and (5) fugitive emissions",
+    "topic": "Greenhouse Gas Emissions",
+    "unit": "Metric tonnes (t) CO₂-e"
+  },
+  {
+    "id": 3,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-110a.3",
+    "metric": "Discussion of long- and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+    "topic": "Greenhouse Gas Emissions",
+    "unit": "n/a"
+  },
+  {
+    "id": 4,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-120a.1",
+    "metric": "Air emissions of the following pollutants: (1) NOₓ (excluding N₂O), (2) SOₓ, (3) volatile organic compounds (VOCs), and (4) particulate matter (PM₁₀)",
+    "topic": "Air Quality",
+    "unit": "Metric tonnes (t)"
+  },
+  {
+    "id": 5,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-140a.1",
+    "metric": "(1) Total water withdrawn, (2) total water consumed; percentage of each in regions with High or Extremely High Baseline Water Stress",
+    "topic": "Water Management",
+    "unit": "Thousand cubic metres (m³), Percentage (%)"
+  },
+  {
+    "id": 6,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-140a.2",
+    "metric": "Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water",
+    "topic": "Water Management",
+    "unit": "Thousand cubic metres (m³), Percentage (%), Metric tonnes (t)"
+  },
+  {
+    "id": 7,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-140a.3",
+    "metric": "Percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used",
+    "topic": "Water Management",
+    "unit": "Percentage (%)"
+  },
+  {
+    "id": 8,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-140a.4",
+    "metric": "Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline",
+    "topic": "Water Management",
+    "unit": "Percentage (%)"
+  },
+  {
+    "id": 9,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-160a.1",
+    "metric": "Description of environmental management policies and practices for active sites",
+    "topic": "Biodiversity Impacts",
+    "unit": "n/a"
+  },
+  {
+    "id": 10,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-160a.2",
+    "metric": "(1) Number and (2) aggregate volume of hydrocarbon spills, (3) volume in Arctic, (4) volume impacting shorelines with ESI rankings 8-10, and (5) volume recovered",
+    "topic": "Biodiversity Impacts",
+    "unit": "Number, Barrels (bbls)"
+  },
+  {
+    "id": 11,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-160a.3",
+    "metric": "Percentage of (1) proved and (2) probable reserves in or near sites with protected conservation status or endangered species habitat",
+    "topic": "Biodiversity Impacts",
+    "unit": "Percentage (%)"
+  },
+  {
+    "id": 12,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-210a.1",
+    "metric": "Percentage of (1) proved and (2) probable reserves in or near areas of conflict",
+    "topic": "Security, Human Rights & Rights of Indigenous Peoples",
+    "unit": "Percentage (%)"
+  },
+  {
+    "id": 13,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-210a.2",
+    "metric": "Percentage of (1) proved and (2) probable reserves in or near indigenous land",
+    "topic": "Security, Human Rights & Rights of Indigenous Peoples",
+    "unit": "Percentage (%)"
+  },
+  {
+    "id": 14,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-210a.3",
+    "metric": "Discussion of engagement processes and due diligence practices with respect to human rights, indigenous rights, and operation in areas of conflict",
+    "topic": "Security, Human Rights & Rights of Indigenous Peoples",
+    "unit": "n/a"
+  },
+  {
+    "id": 15,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-210b.1",
+    "metric": "Discussion of process to manage risks and opportunities associated with community rights and interests",
+    "topic": "Community Relations",
+    "unit": "n/a"
+  },
+  {
+    "id": 16,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-210b.2",
+    "metric": "(1) Number and (2) duration of non-technical delays",
+    "topic": "Community Relations",
+    "unit": "Number, Days"
+  },
+  {
+    "id": 17,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-320a.1",
+    "metric": "(1) Total recordable incident rate (TRIR), (2) fatality rate, (3) near miss frequency rate (NMFR), and (4) average hours of health, safety, and emergency response training for (a) direct employees and (b) contract employees",
+    "topic": "Workforce Health & Safety",
+    "unit": "Rate, Hours (h)"
+  },
+  {
+    "id": 18,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-320a.2",
+    "metric": "Discussion of management systems used to integrate a culture of safety throughout the exploration and production lifecycle",
+    "topic": "Workforce Health & Safety",
+    "unit": "n/a"
+  },
+  {
+    "id": 19,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-420a.1",
+    "metric": "Sensitivity of hydrocarbon reserve levels to future price projection scenarios that account for a price on carbon emissions",
+    "topic": "Reserves Valuation & Capital Expenditures",
+    "unit": "Million barrels (MMbbls), Million standard cubic feet (MMscf)"
+  },
+  {
+    "id": 20,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-420a.2",
+    "metric": "Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves",
+    "topic": "Reserves Valuation & Capital Expenditures",
+    "unit": "Metric tonnes (t) CO₂-e"
+  },
+  {
+    "id": 21,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-420a.3",
+    "metric": "Amount invested in renewable energy, revenue generated by renewable energy sales",
+    "topic": "Reserves Valuation & Capital Expenditures",
+    "unit": "Presentation currency"
+  },
+  {
+    "id": 22,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-420a.4",
+    "metric": "Discussion of how price and demand for hydrocarbons or climate regulation influence the capital expenditure strategy for exploration, acquisition and development of assets",
+    "topic": "Reserves Valuation & Capital Expenditures",
+    "unit": "n/a"
+  },
+  {
+    "id": 23,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-510a.1",
+    "metric": "Percentage of (1) proved and (2) probable reserves in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index",
+    "topic": "Business Ethics & Transparency",
+    "unit": "Percentage (%)"
+  },
+  {
+    "id": 24,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-510a.2",
+    "metric": "Description of the management system for prevention of corruption and bribery throughout the value chain",
+    "topic": "Business Ethics & Transparency",
+    "unit": "n/a"
+  },
+  {
+    "id": 25,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-530a.1",
+    "metric": "Discussion of corporate positions related to government regulations or policy proposals that address environmental and social factors affecting the industry",
+    "topic": "Management of the Legal & Regulatory Environment",
+    "unit": "n/a"
+  },
+  {
+    "id": 26,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Quantitative",
+    "code": "EM-EP-540a.1",
+    "metric": "Process Safety Event (PSE) rates for Loss of Primary Containment (LOPC) of greater consequence (Tier 1)",
+    "topic": "Critical Incident Risk Management",
+    "unit": "Rate"
+  },
+  {
+    "id": 27,
+    "sector": "Extractives & Minerals Processing",
+    "industry": "Oil & Gas - Exploration & Production",
+    "category": "Discussion and Analysis",
+    "code": "EM-EP-540a.2",
+    "metric": "Description of management systems used to identify and mitigate catastrophic and tail-end risks",
+    "topic": "Critical Incident Risk Management",
+    "unit": "n/a"
+  }
+]
